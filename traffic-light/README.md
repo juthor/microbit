@@ -1,6 +1,6 @@
-# Traffic-light
+# Traffic-light  
 
-## Microbit을 이용하여 보행자 신호등 만들기
+## Microbit을 이용하여 보행자 신호등 만들기  
 
 ##### Microbit JavaScript 블록코드 작성 사이트 https://makecode.microbit.org/  
 
