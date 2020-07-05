@@ -7,8 +7,8 @@
 
  ● Small Heart 
  
-  <center><img src="./img/smallheart.png" alt="" height="250px" width="350px"/></center>
+ <center><img src="./img/smallheart.png" alt="" height="250px" width="350px"/></center>
 
  ● Large Heart 
  
-  <center><img src="./img/hearton.png" alt="" height="250px" width="350px"/></center>
+ <center><img src="./img/hearton.png" alt="" height="250px" width="350px"/></center>
