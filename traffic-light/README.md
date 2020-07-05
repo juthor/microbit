@@ -7,8 +7,8 @@
 
  ● 보행자 신호등이 빨간불일 경우, X표시로 통행이 안됨을 표시 
  
- <center><img src="./img/red-light.png" alt="" height="250px" width="350px"/></center>
+  <center><img src="./img/red-light.png" alt="" height="250px" width="350px"/></center>
 
  ● 보행자 신호등이 초록불일 경우, O표시로 통행이 가능함을 표시 
  
- <center><img src="./img/green-light.png" alt="" height="250px" width="350px"/></center>
+  <center><img src="./img/green-light.png" alt="" height="250px" width="350px"/></center>
