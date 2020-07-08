@@ -11,7 +11,7 @@
 
  ● 흔들었을 때 바위가 나오는 경우
  
- <center><img src="https://user-images.githubusercontent.com/42378048/86807900-435cf300-c0b5-11ea-86d7-89c656896159.png" alt="" height="250px" width="350px"/></center>
+ <center><img src="https://user-images.githubusercontent.com/42378048/86949715-06aefb80-c18a-11ea-95a3-ffff0e2ebccc.png" alt="" height="250px" width="350px"/></center>
 
  ● 흔들었을 때 보가 나오는 경우 
 
