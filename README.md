@@ -8,8 +8,8 @@ JavaScript Blocks, JavaScript, Python의 언어로 코딩을 하여 프로그램
 내장된 LED로 불빛을 낼 수 있으며, A, B, A+B 버튼과 흔들기를 통해 다양한 동작을 가진 프로그램을 만들 수 있습니다.  
 마이크로 비트에 다양한 외부 센서들을 연결하여 원하는 프로젝트를 진행할 수 있습니다.  
 
-* Microbit 이미지 
-  <center><img src="https://user-images.githubusercontent.com/42378048/87538127-af9fae00-c6d6-11ea-834b-e773abcb9c59.png" alt="" height="250px" width="350px"/></center>
+ * Microbit 이미지 
+  <center><img src="https://user-images.githubusercontent.com/42378048/87538127-af9fae00-c6d6-11ea-834b-e773abcb9c59.png" alt="" height="250px" width="350px"/></center>  
   <center><img src="https://user-images.githubusercontent.com/42378048/87538136-b29a9e80-c6d6-11ea-8e01-4e614d8591da.png" alt="" height="250px" width="350px"/></center>
 
 
