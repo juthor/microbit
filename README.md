@@ -26,7 +26,7 @@ JavaScript Blocks, JavaScript, Python의 언어로 코딩을 하여 프로그램
 https://makecode.microbit.org/
 
 ### 참고 사이트
-[Microbit 정의 네이버](https://terms.naver.com/entry.nhn?docId=5670029&cid=42346&categoryId=42346)
-[Microbit 정의 위키피디아](https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C_%EB%B9%84%ED%8A%B8)
-[Microbit 활용한 프로젝트 네이버](https://search.naver.com/search.naver?sm=tab_hty.top&where=post&query=%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EB%B9%84%ED%8A%B8+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8&oquery=%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EB%B9%84%ED%8A%B8&tqi=UwGKllprvTossi86aVdsssssshw-157068)
-[Microbit 활용한 프로젝트 구글](https://www.google.com/search?q=microbit+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8&source=lmns&bih=722&biw=1536&hl=ko&ved=2ahUKEwjjgrCGw83qAhVFNaYKHSOmDC4Q_AUoAHoECAEQAA)
+ [Microbit 정의 네이버] https://terms.naver.com/entry.nhn?docId=5670029&cid=42346&categoryId=42346  
+ [Microbit 정의 위키피디아] https://ko.wikipedia.org/wiki/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C_%EB%B9%84%ED%8A%B8  
+ [Microbit 활용한 프로젝트 네이버] https://search.naver.com/search.naver?sm=tab_hty.top&where=post&query=%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EB%B9%84%ED%8A%B8+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8&oquery=%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EB%B9%84%ED%8A%B8&tqi=UwGKllprvTossi86aVdsssssshw-157068  
+ [Microbit 활용한 프로젝트 구글] https://www.google.com/search?q=microbit+%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8&source=lmns&bih=722&biw=1536&hl=ko&ved=2ahUKEwjjgrCGw83qAhVFNaYKHSOmDC4Q_AUoAHoECAEQAA  
